@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237657260132",
+    "project_id": "loginfirebaseauth-ade80",
+    "storage_bucket": "loginfirebaseauth-ade80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237657260132:android:3c5f1cf42fcc2f45b29f71",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebasephoneactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237657260132-8ok5ap5t51m0qkb471n78khpmk3u8smh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgmB-jq7J1eK0hDpasildRVVc-pJC8av0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237657260132-8ok5ap5t51m0qkb471n78khpmk3u8smh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
